@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0fa01fec-2034-4cd2-9573-27f809e15dad",
+    "name": "sattar mabadeje",
+    "email": "sattarmabadeje@gmail.com",
+    "phone": "08125340571",
+    "property": "garden",
+    "message": "we are looking for somewhere comfortable",
+    "createdAt": "2026-11-25T06:59:48.041Z"
+  },
+  {
+    "id": "48bca089-7042-460d-9cd9-9b78e7d95b79",
+    "name": "sattar mabadeje",
+    "email": "sattarmabadeje730@gmail.com",
+    "phone": "+2348165340571",
+    "property": "garden",
+    "message": "we need somewhere warm",
+    "createdAt": "2026-11-25T06:57:37.143Z"
+  }
+]
